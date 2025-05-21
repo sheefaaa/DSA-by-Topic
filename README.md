@@ -12,6 +12,7 @@ Each folder represents a specific topic, and includes solved problems in C++. Th
 - Searching
 - Sorting
 - Strings
+- Leetcode problem solve
 
 More topics will be added gradually.
 
